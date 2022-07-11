@@ -1,5 +1,6 @@
 ﻿using contactPresentation.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace contactPresentation.Controllers
@@ -10,7 +11,7 @@ namespace contactPresentation.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;
+           
         }
 
         public IActionResult Index()

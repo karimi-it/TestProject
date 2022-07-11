@@ -14,6 +14,8 @@ namespace Domain.configuration
         {
             builder.Property(e => e.Name)
                 .HasMaxLength(150);
+            builder.HasKey(a => a.Id);
+            builder.Property(a => a.Id).ValueGeneratedOnAdd();
              
         }
     }
