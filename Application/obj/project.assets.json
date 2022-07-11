@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\myApp\\contactProject\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Projects\\TestProject\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "I:\\myApp\\contactProject\\Application\\Application.csproj",
+      "projectPath": "D:\\Projects\\TestProject\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Mer5i\\.nuget\\packages\\",
-      "outputPath": "I:\\myApp\\contactProject\\Application\\obj\\",
+      "outputPath": "D:\\Projects\\TestProject\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -577,8 +577,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "I:\\myApp\\contactProject\\Domain\\Domain.csproj": {
-              "projectPath": "I:\\myApp\\contactProject\\Domain\\Domain.csproj"
+            "D:\\Projects\\TestProject\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projects\\TestProject\\Domain\\Domain.csproj"
             }
           }
         }

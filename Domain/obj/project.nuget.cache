@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfFyIcERNc7fA4raKEcCTvWUvgSE6PNkFh9hRcDTWHsPxjr0b4gSFGJAcvqArCKmd6F2wIlDMP94YLrSf9lWiw==",
+  "dgSpecHash": "hXmnxiWjyReZAVE45yvmr07x5u5Bd+2vZr7G2iao5YCuk4Vss0hcby6CIgU0Fp64Kv3T6a8Ns13lW0rLG/4t2A==",
   "success": true,
-  "projectFilePath": "I:\\myApp\\contactProject\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Projects\\TestProject\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mer5i\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\Mer5i\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",

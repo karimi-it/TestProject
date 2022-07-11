@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6RoHu9wY8GCynBFpX2r9SLU+TYKcUwgv2s5UGkm5pIId8C2u8f2ZKS7Srakxma8/CcYdMd9Ns88b+weJgQFng==",
+  "dgSpecHash": "RWUzsSZEgXefJ2ATWzpTafcSEKZeiZTxRLnIJF4ObaBVOgN6ymW9291ZtfSg/fVmg2j4obLWVCv/gCFMjJDBAA==",
   "success": true,
-  "projectFilePath": "I:\\myApp\\contactProject\\contactPresentation\\contactPresentation.csproj",
+  "projectFilePath": "D:\\Projects\\TestProject\\contactPresentation\\contactPresentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mer5i\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

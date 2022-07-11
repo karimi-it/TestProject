@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\myApp\\contactProject\\contactPresentation\\contactPresentation.csproj": {}
+    "D:\\Projects\\TestProject\\contactPresentation\\contactPresentation.csproj": {}
   },
   "projects": {
-    "I:\\myApp\\contactProject\\contactPresentation\\contactPresentation.csproj": {
+    "D:\\Projects\\TestProject\\contactPresentation\\contactPresentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\myApp\\contactProject\\contactPresentation\\contactPresentation.csproj",
+        "projectUniqueName": "D:\\Projects\\TestProject\\contactPresentation\\contactPresentation.csproj",
         "projectName": "contactPresentation",
-        "projectPath": "I:\\myApp\\contactProject\\contactPresentation\\contactPresentation.csproj",
+        "projectPath": "D:\\Projects\\TestProject\\contactPresentation\\contactPresentation.csproj",
         "packagesPath": "C:\\Users\\Mer5i\\.nuget\\packages\\",
-        "outputPath": "I:\\myApp\\contactProject\\contactPresentation\\obj\\",
+        "outputPath": "D:\\Projects\\TestProject\\contactPresentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

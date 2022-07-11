@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\myApp\\contactProject\\Domain\\Domain.csproj": {}
+    "D:\\Projects\\TestProject\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "I:\\myApp\\contactProject\\Domain\\Domain.csproj": {
+    "D:\\Projects\\TestProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\myApp\\contactProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\TestProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "I:\\myApp\\contactProject\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Projects\\TestProject\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Mer5i\\.nuget\\packages\\",
-        "outputPath": "I:\\myApp\\contactProject\\Domain\\obj\\",
+        "outputPath": "D:\\Projects\\TestProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

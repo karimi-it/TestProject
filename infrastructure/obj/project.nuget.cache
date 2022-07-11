@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKcE51HeJk8XQzZexhGSEj9qZFHSsR1EIB+AX/2PT/SkSN1JPKlzTE4qLYMDi4oFZmEdYDIWjlTQ0T1mneaiTg==",
+  "dgSpecHash": "A5cZT4ZeQh1I98KSzwq2uHE1XPplUYZfzN2wuaPSA1DmNhNelpMA7tXqXvdFyvkHlmXkbD3MMpIy3peYGF/Q6g==",
   "success": true,
-  "projectFilePath": "I:\\myApp\\contactProject\\infrastructure\\infrastructure.csproj",
+  "projectFilePath": "D:\\Projects\\TestProject\\infrastructure\\infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
