@@ -1,8 +1,37 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<script src='~/js/jquery-3.6.0.min.js'  ></script>
+  
+<script>
+function GetContact(){
+
+
+    const GetContactCommand = {
+  id:1
+};
+    
+
+    $.ajax({
+  url: "Home/GetContact",
+  data:GetContactCommand,
+  type:"post",
+  cache: false,
+  success: function(html){
+         debugger;
+    var d = $("#results").append(html);
+  },
+  error : function(a,b,c)
+  {
+      debugger;
+  }
+});
+}
+</script>
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    <input onclick="GetContact()" type="button"  value="Click me!"/>
+    <div id="results"> </div>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>

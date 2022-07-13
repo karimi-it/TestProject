@@ -14,9 +14,12 @@ namespace Domain
         public DbSet<Contact> contacts { get; set; }
         public MyDbContext(DbContextOptions<MyDbContext> options) : base(options)
         {
+            
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+         
         }
     }
 }
